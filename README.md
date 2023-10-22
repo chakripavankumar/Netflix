@@ -13,3 +13,11 @@ MovieLists * N
 → NetflixGPT
     Search Bar
     Movie Suggestions 
+
+
+    progress=>>>>
+       create react app
+       install tailwind 
+       header
+       Login  form
+       signup  form
