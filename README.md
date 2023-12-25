@@ -15,9 +15,21 @@ MovieLists * N
     Movie Suggestions 
 
 
+
+
+
+
     progress=>>>>
        create react app
        install tailwind 
        header
+       Routing of the app  
        Login  form
        signup  form
+       form validation
+       useref hook
+       Firebase setup
+       Deployed the app to production
+       Create SignUp user account in firebase
+       implemented sign in user api
+       created redux store with userSlice
